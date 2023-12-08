@@ -1,4 +1,4 @@
-### 😄 Hi, I'm Jorge. Currently I'm studying my 9th semester of Computer Engineering at FI UNAM.  My passion lies in AI-based algorithms, data analytics, databases, and blockchain, and I keep myself up-to-date with the latest advancements in mainstream CPUs and GPUs.
+### 😄 Hi, I'm Jorge. Currently I'm studying my 9th semester of Computer Engineering at FI UNAM.  My passion lies in AI-based algorithms, data analytics, databases, cloud, and I keep myself up-to-date with the latest advancements in mainstream CPUs and GPUs.
 
 # 📫 Contact:
 👋 Would you like to get in touch with me? Here are my contact media:
