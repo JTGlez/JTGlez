@@ -9,7 +9,6 @@
  
 </p>
 
-
 # 💻 Tech Stack:
 
 My hard skills can be summarized as follows: Python and R programming, Database Design, PL/SQL, Data Analytics, web development with React.js/Next.js, and ML knowledge to perform Data Mining techniques. Additionally, I have experience in development with various languages, libraries, and tools, as outlined below:
@@ -19,7 +18,7 @@ My hard skills can be summarized as follows: Python and R programming, Database 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JTGlez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JTGlez&theme=react&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=JTGlez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
