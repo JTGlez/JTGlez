@@ -1,7 +1,7 @@
 ### 😄 Hi, I'm Jorge. Currently I'm studying my 10th semester of Computer Engineering at FI UNAM.  My passion lies in AI-based algorithms, data analytics, databases, cloud, and I keep myself up-to-date with the latest advancements in mainstream CPUs and GPUs.
 
 # 📫 Contact:
-👋 Would you like to get in touch with me? Here are my contact media:
+👋 Would you like to get in touch with me? Here is my contact media:
 <p align="center">
   
 <a href="https://linkedin.com/in/jtglez" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="jtglez" height="52" width="40" /></a>
