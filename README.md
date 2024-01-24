@@ -25,7 +25,7 @@ My hard skills can be summarized as follows: Python and R programming, Database 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=JTGlez&theme=react&hide_border=true" alt="languages graph"  />
+  <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=JTGlez&theme=react&hide_border=true&layout=compact" alt="languages graph"  />
 <div/>
 
 ###
