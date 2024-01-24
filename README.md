@@ -31,4 +31,4 @@ My hard skills can be summarized as follows: Python and R programming, Database 
     <img src="https://github.com/JTGlez/JTGlez/blob/main/bronya.gif" alt="animated" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jtglez&label=Profile%20views&color=0e75b6&style=flat" alt="jtglez" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=JTGlez&icon=0&color=12" alt="jtglez" /> </p> 
