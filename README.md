@@ -35,3 +35,6 @@ My hard skills can be summarized as follows: Python and R programming, Database 
 </p>
 
 <p align="center"> <img src="https://camo.githubusercontent.com/074994d2b906a7e4440dd647372ec8fbb1a12f9396e280af1db5a4bd053fefbf/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a74676c657a266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="jtglez" /> </p> 
+
+Powered by  <img width="20px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+
