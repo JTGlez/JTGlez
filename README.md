@@ -5,7 +5,6 @@
 <p align="center">
   
 <a href="https://linkedin.com/in/jtglez" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="jtglez" height="52" width="40" /></a>
-<a href="https://kaggle.com/jtglez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jtglez" height="52" width="40" /></a>
  
 </p>
 
