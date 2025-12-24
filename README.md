@@ -10,9 +10,9 @@
 
 # 💻 Tech Stack:
 
-I’m a Full-Stack Developer with a focus on backend development. My skill set includes frontend development with JavaScript/TypeScript, using frameworks such as React and Next.js. On the backend, I have experience working in both monolithic and microservices architectures using Python, Scala, and Go, with libraries like Apache Kafka, Argo Workflows, the Typelevel ecosystem (Cats/Cats-Effect), Flask, FastAPI, Kopf, sttp Ember, and GraphQL (Sangria/Caliban).
+I’m a Backend Engineer with a strong focus on Golang. I have more than 2 years of experience working in both monolithic applications and high-traffic microservices using Python, Scala, and Go, with libraries like Apache Kafka, Argo Workflows, the Typelevel ecosystem (Cats/Cats-Effect), Flask, FastAPI, Kopf, sttp Ember, Chi and GraphQL (Sangria/Caliban). Also, as part of the technologic stack used in Mercado Libre, I'm acquainted with multiple distributed services such as Amazon Kinesis, S3 and DynamoDB.
 
-I am also proficient in using both ORMs and parameterized SQL queries in environments like MySQL, PostgreSQL, SQLite, RQLite, and OracleDB. In the DevOps field, I have hands-on experience with containerization technologies such as Docker and Podman, as well as developing distributed applications with Kubernetes and Kind. I'm also skilled in deploying applications on Vercel and Amazon Web Services, using services like Route 53, Elastic Beanstalk, S3, and EC2.
+I'm also proficient at using both ORMs and parameterized SQL queries in relational databases like MySQL, PostgreSQL, SQLite, RQLite, and OracleDB. On the other hand, I have hands-on experience with containerization technologies such as Docker and Podman, as well as developing and deploying distributed applications with Kubernetes and Kind. As part of my experience, I have also deployed successfully applications on Vercel and Amazon Web Services with automatic CI/CD strategies using services such as Elastic Beanstalk, S3, and EC2.
 
 ###
 
