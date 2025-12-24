@@ -14,11 +14,6 @@ I’m a Full-Stack Developer with a focus on backend development. My skill set i
 
 I am also proficient in using both ORMs and parameterized SQL queries in environments like MySQL, PostgreSQL, SQLite, RQLite, and OracleDB. In the DevOps field, I have hands-on experience with containerization technologies such as Docker and Podman, as well as developing distributed applications with Kubernetes and Kind. I'm also skilled in deploying applications on Vercel and Amazon Web Services, using services like Route 53, Elastic Beanstalk, S3, and EC2.
 
-<div align="center">
-  <img src="https://github-readme-stats-phi-ashen.vercel.app/api?username=JTGlez&show_icons=true&theme=react&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-phi-ashen.vercel.app/api/top-langs/?username=JTGlez&theme=react&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <p align="center">
